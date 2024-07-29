@@ -19,6 +19,7 @@ public class VoiceMessageUtil{
         System.out.println("Hi, it is " + currentTime);
     }
 
+    // 8. Loops & Enhanced for-loop
     // traditional for-loop
     public void printArray(int[] intArray){
         for(int i = 0; i<intArray.length; i++){
