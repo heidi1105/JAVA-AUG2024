@@ -22,13 +22,13 @@
         <td>2</td>
         <td>Java OOP</td>
         <td>OOP, access modifier, constructors 
-        <td></td>
+        <td><a href="./Java2OOP/OOP1/">OOP1</a> | <a href="./Java2OOP/OOP2/">OOP2</a> | <a href="./Java2OOP/OOP3/">OOP3</a></td>
     <tr>
         <td>W1D3 </td>
         <td></td>
         <td> - Advanced OOP</td>
         <td> Inheritance, Interface</td>
-       <td></td>
+       <td><a href="./Java2OOP/InheritanceDemo/">Code</a></td>
     </tr>
         <tr>
         <td>W1D4 </td>
