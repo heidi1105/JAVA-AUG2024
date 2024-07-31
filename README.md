@@ -28,7 +28,9 @@
         <td></td>
         <td> - Advanced OOP</td>
         <td> Inheritance, Interface</td>
-       <td><a href="./Java2OOP/InheritanceDemo/">Code</a></td>
+       <td><a href="./Java2OOP/InheritanceDemo/">Inhertiance</a> | 
+       <a href="./Java2OOP/InterfaceDemo/">Interface</a>|
+       <a href="./Java2OOP/AbstractDemo/">Abstract class</a></td>
     </tr>
         <tr>
         <td>W1D4 </td>
