@@ -34,16 +34,16 @@
     </tr>
         <tr>
         <td>W1D4 </td>
-        <td></td>
-        <td> - Java Hackathon</td>
-        <td></td>
-        <td></td>
+        <td>3</td>
+        <td>Spring</td>
+        <td>RestController, Routes</td>
+        <td><a href="./Java3Spring">Notes & Code</a></td>
     </tr>
     <tr>
         <td>W1D5 </td>
         <td>3</td>
         <td>Spring</td>
-        <td>RestController, Routes, jsp, jstl</td>
+        <td>jsp, jstl</td>
         <td></td>
     </tr>
     <tr>
