@@ -51,14 +51,14 @@
         <td></td>
         <td></td>
         <td>Sessions & Form</td>
-        <td></td>
+        <td><a href="./Java3Spring/session-form-demo/">Code</a></td>
     </tr>
     <tr>
         <td>W2D2 </td>
         <td>4</td>
         <td> MVC </td>
-        <td>API CRUD, Web Dashboard & Details</td>
-        <td></td>
+        <td>API CRUD</td>
+        <td><a href="./Java4MVC/">Notes & code</td>
     </tr>
     <tr>
         <td>W2D3 </td>
