@@ -16,7 +16,7 @@
    | repositores| [TripRepository interface](./packages/TripRepository.java) | To perform queries on MySQL | [Repositories](https://login.codingdojo.com/m/315/9533/64300) |
    | services   | [TripService class](./packages/TripService.java) | To handle all backend logic (will stay the same) | [Services](https://login.codingdojo.com/m/315/9533/64301) |  
    | controllers| [APIController class](./packages/APIController.java) | To receive HTTP request and render the data  (DON'T NEED IT AFTER JSP)|   |
-| controllers| [TripController class](./packages/TripController.java) | To receive HTTP request, retrieve data from service and render the jsp|   |
+   | controllers| [TripController class](./packages/TripController.java) | To receive HTTP request, retrieve data from service and render the jsp|   |
 6. Create all the corresponding jsp when testing each CRUD operations (NO CODE PROVIDED)
 
 
