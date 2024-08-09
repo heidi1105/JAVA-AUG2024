@@ -72,14 +72,14 @@
         <td></td>
         <td>Relationships</td>
         <td>One-to-many notes</td>
-        <td></td>
+        <td>(<a href="./Java4MVC/1nNotes.md">Notes</a>)</td>
     </tr>
     <tr>
         <td> W2D5 </td>
         <td>5</td>
         <td>Auth</td>
         <td></td>
-        <td></td>
+        <td>(<a href="./Java5FullSpring/auth/">Notes & PseudoCode</a>)</td>
     </tr>
     <tr>
         <td> W3D1 </td>
